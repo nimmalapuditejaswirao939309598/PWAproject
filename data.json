@@ -1,0 +1,44 @@
+{
+  "basic":{
+    "image":"teju2.jpg",
+    "name":"Tejaswi Rao",
+    "email":"tejaswirao0000@gmail.com",
+    "number":"+919999999999",
+    "Address":"10-5-9,Gandhipuram-4,Rajahmundry."
+  },
+  "career":{
+    "info":"To pursue a challenging career to be a part of progressive organisation"
+
+},
+  "education":[
+  {
+    "institute":"Pragati college",
+    "degree":"Btech",
+    "passout":"2021"
+  },
+  {
+    "institute":"Tirumala college",
+    "degree":"Intermediate",
+    "passout":"2017"
+  },
+  {
+    "institute":"Tirumala",
+    "degree":"S.S.C",
+    "passout":"2015"
+  }
+],
+ "skills":[
+ {
+   "title":"Programming languages",
+   "content":["C,javascript,java,ruby"]
+ },
+ {
+   "title":"Operating systems",
+   "content":["windows,linux,ubuntu"]
+ },
+ {
+   "title":"Databases",
+   "content":["mysql,oracle,indexedDB,TinyDB"]
+ }
+]
+}
